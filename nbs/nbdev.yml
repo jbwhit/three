@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "three"
+  site-url: "https://jbwhit.github.io/three"
+  description: "four"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/three"
